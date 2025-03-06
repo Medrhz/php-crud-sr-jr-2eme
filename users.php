@@ -17,8 +17,7 @@
     ?>
     <div class="container mt-5">
         <h1 class="text-center">list of users</h1>
-        <a class="btn btn-success" href="create.php">users list</a>
-
+        <a class="btn btn-success" href="index.html">create</a>
         <table class="table table-striped text-center">
             <thead>
                 <tr>
